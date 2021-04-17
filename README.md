@@ -8,10 +8,12 @@
 ### 1. Multilayer Perceptron    
 
 
-#### 1.1 dataset.py: model 에 data를 연결하는 파이프라인.  
-#### 1.2 model.py: 모델 학습을 위한 커스터마이징 작업.  
-#### 1.3 main.py: 모델 학습.  
+#### 1.1 dataset.py: data 불러오기, 전처리, tentor 생성.  
+#### 1.2 model.py: 네트워크 구조 설정.  
+#### 1.3 main.py: 학습 및 평가.
       
+#
+#
 
 
 ### 2. Convolutional Neural Network    
